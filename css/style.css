@@ -161,7 +161,7 @@ section {
 }
 
 .home .image img {
-    width: 60%;
+    width: 70%;
 }
 
 .home .content {
@@ -171,8 +171,9 @@ section {
 }
 
 .home .content h3 {
-    color: #302851;
+    color: #301a86;
     font-size: 5rem;
+    /* color: aqua; */
 }
 
 .home .content p {
@@ -226,7 +227,7 @@ section {
 }
 
 .about .image img {
-    width: 100%;
+    width: 80%;
 }
 
 .about .content {
